@@ -1,4 +1,8 @@
-h1 {
+body {
+    background:#FFF4DC ;
+}
+
+h1, p{
     text-align: center;
   
 }
@@ -14,5 +18,12 @@ h1 {
 
     }
     
+}
+
+.croissant {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
 }
 
