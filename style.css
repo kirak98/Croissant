@@ -26,4 +26,13 @@ h1, p{
     display: block;
     margin: 30px auto;
 }
+.email {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    text-decoration: none;
+}
 
+.email:hover {
+    text-decoration: underline;
+}
