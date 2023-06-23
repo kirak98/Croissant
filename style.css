@@ -6,9 +6,7 @@ h1, p{
     text-align: center;
   
 }
-@media (max-width:1280px) {
-    h1 {font-size: 48px;
-    } 
+
     
     .navigation-links {
         text-align: center;
@@ -18,9 +16,6 @@ h1, p{
         ;
 
     }
-    
-}
-
 .croissant {
     max-width: 100%;
     border-radius: 10px;
