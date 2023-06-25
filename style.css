@@ -18,6 +18,7 @@ h1, p{
     }
 .croissant {
     max-width: 100%;
+    width: 600px;
     border-radius: 10px;
     display: block;
     margin: 30px auto;
@@ -32,3 +33,4 @@ h1, p{
 .email:hover {
     text-decoration: underline;
 }
+
